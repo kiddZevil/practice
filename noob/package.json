@@ -1,0 +1,12 @@
+{
+  "name": "noob",
+  "version": "1.0.0",
+  "description": "frist package",
+  "main": "index.js",
+  "scripts": {
+    "test": "123",
+    "start": "node server.js"
+  },
+  "author": "123",
+  "license": "ISC"
+}
